@@ -33,3 +33,6 @@ Exemplo: "Faça perguntas para obter contexto ou dados faltantes antes de elabor
 ### Tipo e saída de resposta
 Indique o formato desejado (ex.: lista, resumo, passos, código) e o nível de detalhe esperado.
 Exemplo: "Forneça a resposta em uma lista numerada com passos acionáveis e exemplos de código quando aplicável."
+
+## Atento as respostas
+Para melhor performance, fique atento as perguntas sugeridas ao final e tente ligar a sequencia de processamento a partir dessas respostas para manter os passos logicos.
