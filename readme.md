@@ -1,6 +1,6 @@
 # Prompts AI
 
-[![Prompts AI](https://img.shields.io/badge/Prompts%20AI-v1.0-blue?style=flat-square)](#)
+![AI-ready](https://img.shields.io/badge/AI-ready-purple?style=flat-square) ![version](https://img.shields.io/badge/version-v1.0-blue?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/<OWNER>/<REPO>?style=flat-square) ![commit activity](https://img.shields.io/github/commit-activity/m/<OWNER>/<REPO>?style=flat-square) ![stars](https://img.shields.io/github/stars/<OWNER>/<REPO>?style=flat-square) ![issues](https://img.shields.io/github/issues/<OWNER>/<REPO>?style=flat-square) ![license](https://img.shields.io/github/license/<OWNER>/<REPO>?style=flat-square)
 
 **Breve descrição:** Este arquivo reúne princípios, exemplos práticos e templates para ajudar você a formular prompts claros e eficientes ao interagir com modelos de IA. Use os guias abaixo para definir papel, contexto e formato de saída desejado.
 
