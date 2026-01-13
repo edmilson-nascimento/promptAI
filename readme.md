@@ -1,5 +1,7 @@
 # Prompts AI
 
+**Breve descrição:** Este arquivo reúne princípios, exemplos práticos e templates para ajudar você a formular prompts claros e eficientes ao interagir com modelos de IA. Use os guias abaixo para definir papel, contexto e formato de saída desejado.
+
 ## Princípios básicos
 Para criar um prompt eficaz, responda às perguntas abaixo:
 - Quem?
