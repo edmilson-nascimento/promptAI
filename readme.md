@@ -1,5 +1,7 @@
 # Prompts AI
 
+[![Prompts AI](https://img.shields.io/badge/Prompts%20AI-v1.0-blue?style=flat-square)](#)
+
 **Breve descrição:** Este arquivo reúne princípios, exemplos práticos e templates para ajudar você a formular prompts claros e eficientes ao interagir com modelos de IA. Use os guias abaixo para definir papel, contexto e formato de saída desejado.
 
 ## Princípios básicos
